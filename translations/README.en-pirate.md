@@ -4,11 +4,11 @@
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
 
-# First Contributions
+# முதல் பங்களிப்புகள்
 
-'tis hard. 'tis always hard th' first time ye do somethin'. Especially when ye be collaboratin', makin' mistakes ain't a comfortable thin'. We wanted t' simplify th' way new open-source contributors learn & contribute fer th' first time.
+இது கடினம். நீங்கள் ஏதாவது முதன் முதலாக செய்யும் போது அது எப்போதும் கடினம். குறிப்பாக நீங்கள் குழுவாக ஒத்துழைக்கும்போது, ​​தவறு செய்வது என்பது புரிந்து கொள்ள கூடியதே. புதுமுகர்கள் இதை கற்றுக்கொள்ளவும் இங்கு பங்களிப்பு செயவதை இலகுவாக்குவதே எங்களுக்கு தேவையாக உள்ளது.
 
-Readin' tales & watchin' tutorials can help, but wha''s better than actually doin' th' stuff in a practice environment? This project aims at providin' guidance & simplifyin' th' way beginners make thar first contribution. If ye be lookin' t' make yer first contribution, follow th' steps below.
+கட்டுரைகளைப் படிப்பதும், பயிற்சிகளைப் பார்ப்பதும் உதவக்கூடும், ஆனால் நடைமுறைச் சூழலில் விஷயங்களைச் செய்வதை விட சிறந்தது என்ன? இந்த திட்டம் வழிகாட்டுதல்களை வழங்குவதையும், ஆரம்பநிலை பங்களிப்பாளர்களை அவர்களின் முதல் பங்களிப்பை எளிதாக்குவதையும் நோக்கமாகக் கொண்டுள்ளது. உங்கள் முதல் பங்களிப்பை வழங்க விரும்பினால், கீழே உள்ள படிகளைப் பின்பற்றவும்.
 
 #### *If ye're nah comfortable wit' command line, [here be tutorials usin' GUI tools.]( #tutorials-using-other-tools )*
 

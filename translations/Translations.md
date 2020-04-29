@@ -19,8 +19,9 @@
 | 🇲🇰 | [Македонски](README.mk.md) |
 | 🇭🇺 | [Magyar](translations/README.hu.md) |
 | :slovakia: | [Slovenčina](README.slk.md) |
+|  | [Slovenčina](README.slk.md) |
 | 🇯🇵 | [日本語](README.ja.md) |
-| 🇻🇳 | [Tiếng Việt](README.vn.md) |
+| 🇹🇦 | [தமிழ் ](README.ta.md) |
 | 🇵🇱 | [Polski](README.pl.md) |
 | 🇮🇷 | [فارسی](README.fa.md) |
 | 🇮🇷 | [Persian_Finglish](README.fa.en.md) |
